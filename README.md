@@ -1,2 +1,3 @@
 # hello-world
-going through the tutorial
+Going through the tutorial
+Hour of Code
